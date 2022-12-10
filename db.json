@@ -30,7 +30,6 @@
       "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/4.jpeg",
       "aspectRatio": 0.834,
       "description": "3, 2, 1, ready to launch!",
-      "descLong": "Mussum Ipsum,is santis. Mussum Ipsum, cacilds vidis litro abertis. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis queto inteiris, inteiris.Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi.",
       "authorId": 4
     },
     {
@@ -172,25 +171,25 @@
     {
       "id": 2,
       "name": "cleitonsouza",
-      "avatar": "https://avatars0.githubusercontent.com/u/4669899?s=50&v=4"
+      "avatar": "https://avatars0.githubusercontent.com/u/4669899?s=50&v=4",
       "logado": false
     },
     {
       "id": 3,
       "name": "pellizzetti",
-      "avatar": "https://avatars2.githubusercontent.com/u/16545335?s=50&v=4"
+      "avatar": "https://avatars2.githubusercontent.com/u/16545335?s=50&v=4",
       "logado": false
     },
     {
       "id": 4,
       "name": "jpdemagalhaes",
-      "avatar": "https://avatars3.githubusercontent.com/u/7268910?s=50&v=4"
+      "avatar": "https://avatars3.githubusercontent.com/u/7268910?s=50&v=4",
       "logado": false
     },
     {
       "id": 5,
       "name": "jpedroschmitz",
-      "avatar": "https://avatars0.githubusercontent.com/u/26466516?s=50&v=4"
+      "avatar": "https://avatars0.githubusercontent.com/u/26466516?s=50&v=4",
       "logado": true
     }
   ]
