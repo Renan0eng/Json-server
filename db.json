@@ -184,13 +184,13 @@
       "id": 4,
       "name": "jpdemagalhaes",
       "avatar": "https://avatars3.githubusercontent.com/u/7268910?s=50&v=4",
-      "logado": false
+      "logado": true
     },
     {
       "id": 5,
       "name": "jpedroschmitz",
       "avatar": "https://avatars0.githubusercontent.com/u/26466516?s=50&v=4",
-      "logado": true
+      "logado": false
     }
   ]
 }
