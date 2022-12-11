@@ -6,7 +6,11 @@
       "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/1.jpeg",
       "aspectRatio": 0.834,
       "description": "Working hard at Rocketseat!",
-      "authorId": 1
+      "authorId": 1,
+      "entrega": true,
+      "venda": 49,
+      "nota": 4.5,
+      "nome_produto": "Salada top"
     },
     {
       "id": 2,
