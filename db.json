@@ -10,7 +10,8 @@
       "entrega": true,
       "venda": 49,
       "nota": 4.5,
-      "nome_produto": "Salada top"
+      "nome_produto": "Salada top",
+      "vr_venda": 14.99
     },
     {
       "id": 2,
