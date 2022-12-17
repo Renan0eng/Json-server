@@ -33,7 +33,12 @@
       "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/3.jpeg",
       "aspectRatio": 0.834,
       "description": "Rocketships fly away!",
-      "authorId": 3
+      "authorId": 3,
+       "entrega": true,
+      "venda": 49,
+      "nota": 4.5,
+      "nome_produto": "Salada top",
+      "vr_venda": 14.99
     },
     {
       "id": 4,
