@@ -20,7 +20,12 @@
       "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/2.jpeg",
       "aspectRatio": 0.834,
       "description": "Code, code and more code!",
-      "authorId": 2
+      "authorId": 2,
+      "entrega": false,
+      "venda": 999999,
+      "nota": 2.5,
+      "nome_produto": "Vinagrete",
+      "vr_venda": 996.35
     },
     {
       "id": 3,
